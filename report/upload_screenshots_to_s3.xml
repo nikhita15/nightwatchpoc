@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="0">
+
+  <testsuite name="upload_screenshots_to_s3"
+    errors="0" failures="0" hostname="" id="" package="upload_screenshots_to_s3" skipped="0"
+    tests="0" time="0.000" timestamp="Mon, 26 Mar 2018 20:46:19 GMT">
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

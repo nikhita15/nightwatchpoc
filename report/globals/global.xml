@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="globals.global"
+    errors="1" failures="0" hostname="" id="" package="globals" skipped="0"
+    tests="1" time="0.2330" timestamp="Mon, 26 Mar 2018 20:46:18 GMT">
+  
+    <testcase name="reporter" classname="globals.global" time="0.2330" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Globals / Global / reporter]:
+
+  TypeError: done is not a function
+    at /Users/e052988/Downloads/learn-nightwatch-poc/node_modules/nightwatch-html-reporter/lib/reporter.js:85:7
+    at /Users/e052988/Downloads/learn-nightwatch-poc/node_modules/async/dist/async.js:3874:9
+    at /Users/e052988/Downloads/learn-nightwatch-poc/node_modules/async/dist/async.js:473:16
+    at iterateeCallback (/Users/e052988/Downloads/learn-nightwatch-poc/node_modules/async/dist/async.js:976:17)
+    at /Users/e052988/Downloads/learn-nightwatch-poc/node_modules/async/dist/async.js:958:16
+    at /Users/e052988/Downloads/learn-nightwatch-poc/node_modules/async/dist/async.js:3871:13
+    at /Users/e052988/Downloads/learn-nightwatch-poc/node_modules/nightwatch-html-reporter/lib/reporter.js:59:18
+    at /Users/e052988/Downloads/learn-nightwatch-poc/node_modules/async/dist/async.js:473:16
+    at next (/Users/e052988/Downloads/learn-nightwatch-poc/node_modules/async/dist/async.js:5315:29)
+    at /Users/e052988/Downloads/learn-nightwatch-poc/node_modules/async/dist/async.js:958:16
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>
